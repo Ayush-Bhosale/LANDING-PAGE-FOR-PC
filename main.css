@@ -7,7 +7,7 @@
 .container{
     width:100%;
     height: 100vh;
-    background-image: url("background.png");
+    background-image: url("Desert Web Img\background.png");
     background-position: center;
     background-size: cover;
     padding-left: 8%;
@@ -89,22 +89,22 @@ margin-top: 30px;
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url("pic-1.png");
+    background-image: url("Desert Web Img\pic-1.png");
     background-size: cover;
     background-position: center;
     transition : transform 0.5s ;
 }
 
 .card2{
-    background-image: url("pic-2.png");
+    background-image: url("Desert Web Img\pic-2.png");
 }
 
 .card3{
-    background-image: url("pic-3.png");
+    background-image: url("Desert Web Img\pic-3.png");
 }
 
 .card4{
-    background-image: url("pic-4.png");
+    background-image: url("Desert Web Img\pic-4.png");
 }
 
 .card:hover{
